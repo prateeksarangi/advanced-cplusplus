@@ -1,0 +1,5 @@
+Population UK: 64000000
+Population France: 66400000
+Population India: 1300000000
+Population China: 1000000000
+Population USA: 800000000
